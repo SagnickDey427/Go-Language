@@ -40,5 +40,7 @@ func main() {
 
 	//tryMaps()
 
-	tryFuncyions()
+	//tryFuncyions()
+
+	tryStructs()
 }

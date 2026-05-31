@@ -30,5 +30,15 @@ func main() {
 
 	// formatFunc() //This comes from "formats_fmt.go" but since Go trearts all the files inside a folder like single big file , i don't have to explicitly tell the compiler to import it from that file . But when running , make sure to run both the files so , ' go run demo.go formats_fmt.go' or 'go run .'
 
-	operatorFunc()
+	//operatorFunc()
+
+	//tryString()
+
+	//tryArrays()
+
+	//trySlices()
+
+	//tryMaps()
+
+	tryFuncyions()
 }
